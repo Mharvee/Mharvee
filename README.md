@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Marvellous Onohwakpor
 
-<!--
-**Mharvee/Mharvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a university student and tech enthusiast diving deep into the world of Python, Artificial Intelligence, and Computer Vision.
 
-Here are some ideas to get you started:
+ I'm currently exploring how machines see and understand the world — and it's been an exciting journey so far.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Always learning, building, and sharing what I discover along the way.
+
+ Let’s connect on [LinkedIn](https://www.linkedin.com/in/marvellous-onohwakpor/)
+
+---
+
+###  Tech Interests
+- Python 
+- Artificial Intelligence 
+- Computer Vision 
+- Front-end Development (HTML, CSS, JavaScript)
+
+---
+
+###  Goals
+- Build real-world AI/Computer Vision projects
+- Collaborate with others in the tech space
+- Keep learning, keep growing
+
+---
+
+ 
+
+
+
