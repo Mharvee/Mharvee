@@ -1,31 +1,33 @@
-Hi, I'm Marvellous Onohwakpor
+#  Hi, I'm Marvellous Onohwakpor
 
- I'm a university student and tech enthusiast diving deep into the world of Python, Artificial Intelligence, and Computer Vision.
+I'm a university student and tech enthusiast passionate about combining **Cybersecurity** and **Computer Vision** to solve real-world problems.
 
- I'm currently exploring how machines see and understand the world — and it's been an exciting journey so far.
+On one side, I’m diving into **threat detection, incident response, and digital forensics** to understand how to protect systems from attack.
 
- Always learning, building, and sharing what I discover along the way.
+On the other, I’m exploring how machines can interpret visual data through **Computer Vision**, using Python and AI to help machines "see" and make decisions.
 
- Let’s connect on [LinkedIn](https://www.linkedin.com/in/marvellous-onohwakpor/)
+I believe the intersection of these two fields will shape the future of secure, intelligent systems and I want to be part of that.
 
----
 
-###  Tech Interests
-- Python 
-- Artificial Intelligence 
-- Computer Vision 
-- Front-end Development (HTML, CSS, JavaScript)
 
----
+## Tech Interests
 
-###  Goals
-- Build real-world AI/Computer Vision projects
-- Collaborate with others in the tech space
-- Keep learning, keep growing
+-  Python  
+-  Artificial Intelligence  
+-  Computer Vision  
+-  Cybersecurity (SOC analysis, Blue Team tools)  
+-  Front-end Development (HTML, CSS, JavaScript)
 
 ---
 
- 
+## Goals
+
+- Build hands-on projects that fuse **Computer Vision** and **Cybersecurity**
+- Develop a strong portfolio in both blue team tools and AI-based applications
+- Contribute to the tech community and learn from others
+- Secure an internship in a SOC or AI-focused lab
 
 
+## 🤝 Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/marvellous-onohwakpor/)
